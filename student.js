@@ -71,6 +71,7 @@ import "./vue.6393bf1c.js";
 import "./naturalSort.11e7fc54.js";
 import "./MathHelper.4a2a3f86.js";
 window.Dent.utils.Store = s;
+console.log("student");
 Dent.utils.VueGlueUtil = {
     cleanupVue(t, e=!1) {
         t.commit("taskGroups/resetTaskGroups"),
